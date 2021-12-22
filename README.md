@@ -5,4 +5,4 @@ My name is Santiago. I am a software engineering student at ITBA (Instituto Tecn
 You can find me on [Linkedin][1] and on my university-related [Github][2] account.
 
 [1]: https://www.linkedin.com/in/santilococo
-[2]: https://www.github.com/slococo
+[2]: https://github.com/slococo
